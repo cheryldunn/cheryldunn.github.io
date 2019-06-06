@@ -10,8 +10,8 @@ expense = 55555
 
 net_income = revenue - expense
 
+def 
 for rev in revenues:
     give_rev(revenue)
     give_exp(expense)
     show_ni(net_income)
-    
